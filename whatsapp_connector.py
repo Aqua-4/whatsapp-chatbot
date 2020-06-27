@@ -26,3 +26,5 @@ while True:
             time.sleep(5)
     except:
         print("crashed")
+        time.sleep(5)
+

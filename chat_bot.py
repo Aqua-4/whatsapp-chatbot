@@ -22,7 +22,6 @@ ChatterBot Corpus of conversation dialog.
 
 chatbot = ChatBot('WhatsApp Bot')
 
-"""
 # Start by training our bot with the ChatterBot corpus data
 trainer = ChatterBotCorpusTrainer(chatbot)
 
@@ -35,6 +34,5 @@ trainer.train("chatterbot.corpus.english.greetings")
 
 # Train based on the english conversations corpus
 trainer.train("chatterbot.corpus.english.conversations")
-"""
 # trainer2 = ListTrainer(chatbot)
 # trainer2.train(train_list())
