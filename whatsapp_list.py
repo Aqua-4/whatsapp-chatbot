@@ -5,6 +5,13 @@ Created on Tue Nov 12 21:32:55 2019
 @author: Parashar
 """
 
+# Steps
+"""
+export whatsApp chato to text
+change the variable and point to the file,
+returns chatbot training type list
+"""
+
 
 def train_list():
 
